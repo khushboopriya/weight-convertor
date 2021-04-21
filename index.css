@@ -1,0 +1,34 @@
+.convert{
+   height: 10vh;
+   width: 20vw;
+
+}
+
+.main{
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   align-items: center;
+   row-gap: 3vh;
+}
+
+body{
+   /* background-color: black;
+} */
+}
+h1{
+   color: white;
+   font-family: 'Times New Roman', Times, serif;
+}
+
+#input{
+   width: 20vw;
+   height: 5vh;
+   border-radius: 1vh;
+}
+
+.poundsoutput{
+   display: flex;
+   flex-direction: column;
+   row-gap: 0.1vh;
+}
